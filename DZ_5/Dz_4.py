@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 L = [77, 88, 99, 0, 0, 77, 1, 2]
 L.sort()
 L_iter = iter(L)
