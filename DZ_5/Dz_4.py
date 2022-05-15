@@ -8,4 +8,5 @@ for i in L_iter:
 for i in L_falses:
     if i in L:
         L.remove(i)
-print(L)
+print(L)    
+?
